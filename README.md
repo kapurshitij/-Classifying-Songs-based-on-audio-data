@@ -1,4 +1,6 @@
 **Classifying Song Genres from Audio Data**
+
+
 This project uses Machine Learning Techniques in Python to classify songs based on their genre.
 
 Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), I trained a classifier to distinguish between the two genres based on only on track information derived from Echonest (now part of Spotify). Used pandas and seaborn packages in python for subsetting the data, aggregating information, and creating plots.
